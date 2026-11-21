@@ -12,7 +12,7 @@ This project covers the complete data-analysis workflow:
 - Detecting and reviewing duration outliers
 - Engineering date and decade features
 - Performing exploratory data analysis (EDA)
-- Creating visualizations for business questions
+- Creating visualizations for business questions (in Certification_Task.ipynb file )
 - Documenting findings and key insights
 
 ## Dataset
@@ -36,8 +36,8 @@ Certification-task/
 ├── Docx/
 │   └── Project documentation.pdf
 ├── NoteBook/
-│   └── Certification_Task.ipynb
-└── Visualization/
+  └── Certification_Task.ipynb
+
 ```
 
 - **NoteBook/** contains the complete Jupyter/Google Colab analysis.
